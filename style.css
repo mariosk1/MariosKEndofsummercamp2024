@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+
+  font-family: Comic Sans SM;
+  background-color: cyan;
+  border-radius:10px;
+  
+}
+.wixconfig {
+ font-family: Comic Sans SM;
+
+ 
+}
+
+
+.figmaconfig {
+ font-family: Comic Sans SM;
+} 
+
+.htmlcss {
+ font-family: Comic Sans SM;
+}
+
+.overallexp  {
+ font-family: Comic Sans SM;
+}
+html {
+
+  background-color: peru;
+  font-family: 'Times New Roman';
+}
